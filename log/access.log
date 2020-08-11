@@ -1,0 +1,4 @@
+127.0.0.1 - - [11/Aug/2020:12:22:39 +0000] "GET / HTTP/1.1" 200 1407 "-" "curl/7.61.1"
+39.128.25.91 - - [11/Aug/2020:12:24:37 +0000] "GET / HTTP/1.1" 200 1407 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52"
+39.128.25.91 - - [11/Aug/2020:12:24:37 +0000] "GET /static/index.css HTTP/1.1" 200 0 "http://www.ssgll.top:8800/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52"
+39.128.25.91 - - [11/Aug/2020:12:24:37 +0000] "GET /favicon.ico HTTP/1.1" 500 268 "http://www.ssgll.top:8800/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 Edg/84.0.522.52"
