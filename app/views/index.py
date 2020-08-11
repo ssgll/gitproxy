@@ -1,7 +1,7 @@
 import re
 
 import requests
-from flask import request, render_template, Response
+from flask import request, render_template, Response, redirect
 
 def indexView():
     if 'q' in request.args:
